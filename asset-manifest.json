@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/richsaly/react-profile/static/css/main.1f1a02f5.css",
+    "main.js": "/richsaly/react-profile/static/js/main.a62f221a.js",
+    "static/js/453.212d198d.chunk.js": "/richsaly/react-profile/static/js/453.212d198d.chunk.js",
+    "index.html": "/richsaly/react-profile/index.html",
+    "main.1f1a02f5.css.map": "/richsaly/react-profile/static/css/main.1f1a02f5.css.map",
+    "main.a62f221a.js.map": "/richsaly/react-profile/static/js/main.a62f221a.js.map",
+    "453.212d198d.chunk.js.map": "/richsaly/react-profile/static/js/453.212d198d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f1a02f5.css",
+    "static/js/main.a62f221a.js"
+  ]
+}
